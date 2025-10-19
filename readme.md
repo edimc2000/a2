@@ -91,5 +91,5 @@ Tax Amount for
 
 ---
 
-## License
+## Questions
 For questions, contact Eddie or refer to course T0502 materials.
