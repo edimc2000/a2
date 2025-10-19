@@ -7,8 +7,8 @@ This repository contains hands-on Java exercises demonstrating **class design**,
 
 ## Packages and Key Files
 
-- [Product.java](https://product.java/) — Product model with encapsulation, `equals` override, and decimal formatting.
-- [ProductDemo.java](https://productdemo.java/) — Demo runner that creates `Product` instances and tests all functionality.
+- Product.java — Product model with encapsulation, `equals` override, and decimal formatting.
+- ProductDemo.java — Demo runner that creates `Product` instances and tests all functionality.
 
 ---
 
@@ -71,10 +71,10 @@ Tax Amount for
 
 ## Usage Notes
 
-- Use [`Product.formatThreeDecimals`](https://product.java/) for formatting numbers to three decimal places with grouping separators.
-- [`Product.getProductCount`](https://product.java/) returns the number of created `Product` instances.
-- [`Product.getTaxRate`](https://product.java/) and [`Product.getPrice`](https://product.java/) provide access to private fields.
-- The `equals` method properly handles null checks and class comparisons.
+- `Product.formatThreeDecimals` for formatting numbers to three decimal places with grouping separators.
+- `Product.getProductCount` returns the number of created `Product` instances.
+- `Product.getTaxRate` and `Product.getPrice` provide access to private fields.
+- `equals` method properly handles null checks and class comparisons.
 
 ---
 
